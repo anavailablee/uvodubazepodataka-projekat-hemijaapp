@@ -1,0 +1,6 @@
+username,password
+admin,admin123
+korisnik1,lozinka1
+korisnik2,lozinka2
+korisnik3,lozinka3
+korisnik4,lozinka4
